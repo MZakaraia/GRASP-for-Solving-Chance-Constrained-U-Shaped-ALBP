@@ -7,4 +7,4 @@ The GRASP.py file contains the code of the proposed GRASP algorithm for solving 
 - CR_lower_var_0.95.csv
 - CR_lower_var_0.975.csv
 
-The A-Greedy-Randomized-Adaptive-Search-for-Solving-Chance-Constrained-U-Shaped-Assembly-Line-Balancing-Problem.pdf file is the published paper related to this code.
+The text files are the test problems and the A-Greedy-Randomized-Adaptive-Search-for-Solving-Chance-Constrained-U-Shaped-Assembly-Line-Balancing-Problem.pdf file is the published paper related to this code.
