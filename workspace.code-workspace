@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"*.txt":true,
+		"*.csv":true,
+		"*.xl*":true,
+		"*.R":true,
+		"*.BAK":true,
+		"*.MPJ":true,
+		"*.png":true,
+		"*.RData":true,
+		"*.R*":true,
+		"*.do*":true
+	},
+	"jupyter.jupyterServerType": "local",
+	"python.pythonPath": "D:\\Anaconda_2\\python.exe"
+}
+}
